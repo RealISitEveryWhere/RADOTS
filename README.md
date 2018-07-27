@@ -7,6 +7,7 @@ This repository contains the source code for the "Rock am Dom" website and ticke
 ## Compile and debug requirements
 
 - Visual Studio 2017
+- PostgreSQL
 
 ## Tech stack
 
@@ -18,7 +19,7 @@ This repository contains the source code for the "Rock am Dom" website and ticke
 - vue.js
 - entity framework core
 - FluentValidation
-- serilog
+- serilog for logging to filesystem (access via sftp)
 
 ## Features
 
