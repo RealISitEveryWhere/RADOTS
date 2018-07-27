@@ -7,13 +7,18 @@ This repository contains the source code for the "Rock am Dom" website and ticke
 ## Compile and debug requirements
 
 - Visual Studio 2017
-- docker runtime
 
 ## Tech stack
 
-- linux runtime in docker
-- asp.net core 2.1
-- front end: vue.js
+- linux runtime on bare metal
+- asp.net core 2.1 MVC
+
+## Frameworks
+
+- vue.js
+- entity framework core
+- FluentValidation
+- serilog
 
 ## Features
 
