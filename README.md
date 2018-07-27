@@ -11,8 +11,17 @@ This repository contains the source code for the "Rock am Dom" website and ticke
 
 ## Tech stack
 
-- linux runtime
-- asp.net core
+- linux runtime in docker
+- asp.net core 2.1
+- front end: vue.js
+
+## Features
+
+- authentication
+- authorization
+- user management
+- ticket management
+- user roles
 
 ## Dependencies
 
