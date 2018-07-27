@@ -4,10 +4,10 @@
 
 This repository contains the source code for the "Rock am Dom" website and ticket management system.
 
-## Compile requirements
+## Compile and debug requirements
 
 - Visual Studio 2017
-
+- docker runtime
 
 ## Tech stack
 
